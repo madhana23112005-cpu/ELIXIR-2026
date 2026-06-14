@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Mass f ELIXIR'2kk26 - EEE Technical Symposium",
+  "description": "A premium, cinematic event website for the ELIXIR'26 technical symposium organized by the Department of Electrical and Electronics Engineering at GCE Erode.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
