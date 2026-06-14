@@ -71,7 +71,7 @@ open index.html
 
 ## 🏫 About GCE Erode
 
-Government College of Engineering, Erode is an autonomous institution affiliated with Anna University, Tamil Nadu. Elixir is the flagship technical event of the EEE department, bringing together students from across Anna University-affiliated colleges.
+Government College of Engineering, Erode is an Non-autonomous institution affiliated with Anna University, Tamil Nadu. Elixir is the flagship technical event of the EEE department, bringing together students from across Anna University-affiliated colleges.
 
 ---
 
